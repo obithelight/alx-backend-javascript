@@ -1,6 +1,8 @@
 # 0x01. ES6 Promises
 - JavaScript, ES6
 
+![promises_backend](https://github.com/user-attachments/assets/bf8c264c-2eb6-4f6d-b97b-f4b96c1a6809)
+
 ## Learning Objectives
 
 - Promises (how, why, and what)

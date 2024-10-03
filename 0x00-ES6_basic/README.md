@@ -1,6 +1,9 @@
 # 0x00. ES6 Basics
 - JavaScript, ES6
 
+![es6-backend](https://github.com/user-attachments/assets/7e42f85c-4941-4bd0-951c-29a785ce58ae)
+
+
 ## Learning Objectives
 
 - What ES6 is?

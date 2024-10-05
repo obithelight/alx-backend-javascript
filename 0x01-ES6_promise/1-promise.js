@@ -1,4 +1,5 @@
-getFullResponseFromAPI(success) {
+/* eslint-disable no-unused-vars */
+export default function getFullResponseFromAPI(success) {
   return new Promise((resolve, reject) => {
     if (success) {
       resolve({ status: 200, body: 'Success' });
@@ -7,4 +8,4 @@ getFullResponseFromAPI(success) {
     }
   });
 }
-
+/* eslint-disable no-unused-vars */

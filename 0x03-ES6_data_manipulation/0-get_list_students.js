@@ -1,3 +1,5 @@
+/* eslint-disable no-underscore-dangle */
+
 export default function getListStudents() {
   return [
     { id: 1, firstName: 'Guillaume', location: 'San Francisco' },
@@ -5,3 +7,5 @@ export default function getListStudents() {
     { id: 3, firstName: 'Serena', location: 'San Francisco' },
   ];
 }
+
+/* eslint-disable no-underscore-dangle */

@@ -1,11 +1,10 @@
 // CommonJS syntax (Method 1)
-// const { expect } = require('chai'); // Import Chai using CommonJS
-// const calculateNumber = require('./2-calcul_chai'); // Import the function using CommonJS
-
+const { expect } = require('chai'); // Import Chai using CommonJS
+const calculateNumber = require('./2-calcul_chai'); // Import the function using CommonJS
 
 // ES module syntax (Method 2)
-import { expect } from 'chai'; 
-import calculateNumber from './2-calcul_chai.js';
+// import { expect } from 'chai'; 
+// import calculateNumber from './2-calcul_chai.js';
 
 // To use ESM, update and add the following field in your package.json: "type": "module". For CommonJS, do not add.
 

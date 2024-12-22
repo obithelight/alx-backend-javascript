@@ -18,9 +18,9 @@ const calculateNumber = (type, a, b) => {
 }
 
 // CommonJS syntax
-// module.exports = calculateNumber;
+module.exports = calculateNumber;
 
 // ES module syntax
-export default calculateNumber;
+// export default calculateNumber;
 
 // ES module syntax requires that package.json is updated with "type": "module"

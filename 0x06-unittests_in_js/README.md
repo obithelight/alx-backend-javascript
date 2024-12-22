@@ -1,6 +1,8 @@
 # 0x06. Unittests in JS
 - UnitTests, Back-end, JavaScript, ES6, NodeJS. ExpressJS, Mocha
 
+![unittest_in_js](https://github.com/user-attachments/assets/3b8ac862-7cb2-4b50-ae6a-a9083d0a3eb2)
+
 ### Learning Objectives
 - How to use Mocha to write a test suite
 - How to use different assertion libraries (Node or Chai)

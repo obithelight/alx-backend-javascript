@@ -4,8 +4,8 @@ const { expect } = require('chai');
 const sendPaymentRequestToApi = require('./4-payment');
 
 describe('sendPaymentRequestToApi', () => {
-  it('sendPaymentRequestToApi uses the calculateNumber method of Utils', () => {
-    const netflix = sinon.spy(Utils);
+  it('sendPaymentRequestToApi calls console.log with the right arguments', () => {
+    const netflix = sinon.spy(console);
     const movies = sinon.stub(Utils, 'calculateNumber');
 
     movies.returns(10);
